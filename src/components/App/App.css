@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.iwul--button {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  font-size: xx-large;
+  font-weight: 600;
+  font-family: monospace;
+  background-color: #D4AF37;
+  border: 5px solid goldenrod;
+  cursor: pointer;
+}
+
+.sakiweka {
+  border-radius: 25px;
+  width: auto;
+}
