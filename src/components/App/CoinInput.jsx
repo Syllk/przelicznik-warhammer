@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function CoinInput(props) {
-    return (
+        return (
         <>
          <label htmlFor={props.id}>{props.description}</label>
             <input
